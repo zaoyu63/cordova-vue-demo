@@ -1,2 +1,2 @@
-# vue-demo
-基于vue-cli3搭建的项目模板
+# cordova-vue-demo
+基于 vue、cordova搭建的跨平台移动端基础工程
