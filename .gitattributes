@@ -1,2 +1,3 @@
 *.js linguist-language=JavaScript
 *.Vue linguist-language=Vue
+*.xml linguist-language=JavaScript
