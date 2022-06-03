@@ -12,7 +12,7 @@
     "bi": "cordova build ios"
   },
   "dependencies": {
-    "@angular/core": "^9.1.0",
+    "@angular/core": "^11.0.5",
     "@ionic-native/barcode-scanner": "^5.23.0",
     "@ionic-native/call-number": "^5.23.0",
     "@ionic-native/camera": "^5.23.0",
